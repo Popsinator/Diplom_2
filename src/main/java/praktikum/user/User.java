@@ -1,4 +1,4 @@
-package praktikum.User;
+package praktikum.user;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;

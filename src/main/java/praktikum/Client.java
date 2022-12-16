@@ -8,9 +8,6 @@ public class Client {
 
     private static final String BASE_URL = "https://stellarburgers.nomoreparties.site";
 
-    public Client() {
-    }
-
     protected RequestSpecification getSpec() {
         return new RequestSpecBuilder()
                 .setContentType(ContentType.JSON)

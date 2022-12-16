@@ -1,4 +1,4 @@
-package praktikum.Order;
+package praktikum.order;
 
 import io.restassured.response.ValidatableResponse;
 import praktikum.Client;

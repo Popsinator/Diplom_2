@@ -4,13 +4,13 @@ import io.restassured.response.ValidatableResponse;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import praktikum.Order.Ingredients;
-import praktikum.Order.IngredientsGenerator;
-import praktikum.Order.OrderClient;
-import praktikum.User.Credentials;
-import praktikum.User.User;
-import praktikum.User.UserClient;
-import praktikum.User.UserGenerator;
+import praktikum.order.Ingredients;
+import praktikum.order.IngredientsGenerator;
+import praktikum.order.OrderClient;
+import praktikum.user.Credentials;
+import praktikum.user.User;
+import praktikum.user.UserClient;
+import praktikum.user.UserGenerator;
 
 
 import java.util.ArrayList;

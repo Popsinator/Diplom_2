@@ -4,10 +4,10 @@ import io.restassured.response.ValidatableResponse;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import praktikum.User.Credentials;
-import praktikum.User.User;
-import praktikum.User.UserGenerator;
-import praktikum.User.UserClient;
+import praktikum.user.Credentials;
+import praktikum.user.User;
+import praktikum.user.UserGenerator;
+import praktikum.user.UserClient;
 
 import static org.apache.http.HttpStatus.SC_OK;
 import static org.apache.http.HttpStatus.SC_UNAUTHORIZED;

@@ -1,4 +1,4 @@
-package praktikum.Order;
+package praktikum.order;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -9,5 +9,5 @@ import lombok.RequiredArgsConstructor;
 @AllArgsConstructor
 public class Ingredients {
 
-    String[] ingredients;
+    private String[] ingredients;
 }

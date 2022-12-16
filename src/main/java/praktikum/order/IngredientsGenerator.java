@@ -1,4 +1,4 @@
-package praktikum.Order;
+package praktikum.order;
 
 public class IngredientsGenerator {
 

@@ -1,4 +1,4 @@
-package praktikum.User;
+package praktikum.user;
 
 import io.restassured.response.ValidatableResponse;
 import praktikum.Client;
